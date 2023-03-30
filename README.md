@@ -4,7 +4,7 @@
 - 🌱 I'm currently woking on a [TEAMLAB](https://www.notion.so/TEAMLAB-d690ca4b3f4d44449520ed21e9b51739)!
 - 🙃 I'm currently learning everything!
 - 👥 I'm looking to collaborate with other content creators.
-<!-- - ⚡️ Fun Fact : I 💙 🍑 and 🐱 --> -->
+- ⚡️ Fun Fact : I 💙 🍑 and 🐱 -->
 
 ### Connect with me:
 [<img align="left" alt="Wonyoung | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Wonyoungpark)
