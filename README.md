@@ -11,11 +11,8 @@
 - ⚡️ Fun Fact : I 💙 🍑 and 🐱 -->
 
 ### Connect with me:
-![Notion Badge](http://img.shields.io/badge/-Portfolio-F6F6F6?style=flat-square&logo=notion&logoColor=black&link=https://crystalline-telescope-3c1.notion.site/Wonyoung-Park-662a88460461455e8063b684c7957a61)
-
-
-[<img align="left" alt="Wonyoung | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Wonyoungpark)
-[<img align="left" alt="Wonyoung | Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />](https://www.notion.so/Get-Started-662a88460461455e8063b684c7957a61)
+[![Notion Badge](http://img.shields.io/badge/-PORTFOLIO-F6F6F6?style=flat-square&logo=notion&logoColor=black&link=https://crystalline-telescope-3c1.notion.site/Wonyoung-Park-662a88460461455e8063b684c7957a61)](https://crystalline-telescope-3c1.notion.site/Wonyoung-Park-662a88460461455e8063b684c7957a61)
+[![GitHub Badge](http://img.shields.io/badge/-GitHub%20CV-000000?style=flat-square&logo=github&link=https://holly-21.github.io/)](https://holly-21.github.io/)
 
 <br/>
 
