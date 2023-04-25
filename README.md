@@ -1,3 +1,7 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fholly-21%2Fhit-counter&count_bg=%233DC841&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
 ### Hi there, I'm Wonyoung <a href="https://github.com/Wonyoungpark"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <!-- ## I'm a student, and a software engineer!
@@ -7,6 +11,9 @@
 - ⚡️ Fun Fact : I 💙 🍑 and 🐱 -->
 
 ### Connect with me:
+![Notion Badge](http://img.shields.io/badge/-Portfolio-F6F6F6?style=flat-square&logo=notion&logoColor=black&link=https://crystalline-telescope-3c1.notion.site/Wonyoung-Park-662a88460461455e8063b684c7957a61)
+
+
 [<img align="left" alt="Wonyoung | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Wonyoungpark)
 [<img align="left" alt="Wonyoung | Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />](https://www.notion.so/Get-Started-662a88460461455e8063b684c7957a61)
 
