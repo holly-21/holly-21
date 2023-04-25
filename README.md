@@ -59,6 +59,6 @@
 <br/>
 <br/>
 
-[![holly-21's github stats](https://github-readme-stats.vercel.app/api?username=Wonyoungpark)](https://github.com/anuraghazra/github-readme-stats)
+[![holly-21's github stats](https://github-readme-stats.vercel.app/api?username=holly-21)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
