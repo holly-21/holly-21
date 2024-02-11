@@ -49,8 +49,10 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-ffffff?style=for-the-badge&logo=Ubuntu)
 
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![googlecolab](https://img.shields.io/badge/googlecolab-ffffff?style=for-the-badge&logo=googlecolab)
 ![jupyter](https://img.shields.io/badge/jupyter-ffffff?style=for-the-badge&logo=jupyter)
+![eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![intellijIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![googlecolab](https://img.shields.io/badge/googlecolab-ffffff?style=for-the-badge&logo=googlecolab)
 
 ![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion)
 <!--![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)-->
